@@ -1,5 +1,3 @@
-aa
-基本的なわーくふろーを学びます。
-追加
-あああ
-abc
+git add
+git commit
+
